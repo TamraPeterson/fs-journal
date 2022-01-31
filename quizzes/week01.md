@@ -38,7 +38,7 @@
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector, attribute, value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
