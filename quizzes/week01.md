@@ -62,11 +62,11 @@ I would use a <b></b> tag around the words I wanted bold, or if I wanted all the
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex property makes items flexible within their container.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Border, margin, padding, and content.
 ```
