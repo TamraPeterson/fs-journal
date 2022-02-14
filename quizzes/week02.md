@@ -8,12 +8,12 @@
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-        A function is 
+        A function is a set of statements that perform a task of some sort.
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-        S- single responsibility (a function should only have one job)
+        S- single responsibility 
         O- open closed
         L- Liskov substitution
         I- Interface segregation
@@ -64,7 +64,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+        boolean, null, undefined, number, bigInt string, symbol, objects, arrays
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
