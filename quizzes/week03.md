@@ -16,7 +16,9 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+        property.value   or
+        let property = "Tim" ?
+        ... I'm not sure I understand the question 
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
@@ -31,7 +33,7 @@ let property = 'name'
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+        A class is the blueprint for what the class will contain. The instance of the class actually has data connected to the blueprint to create one specific object.
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
