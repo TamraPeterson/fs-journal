@@ -3,22 +3,22 @@
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
-
+        Inheritance is when a child element has a property on it signifying who its parent is, typically an id.
 ```
 **2.** What is the `Singleton` design pattern?
 <!-- enter you answer in the space below -->
 ```
-
+        Singleton design has a single class responsible for creating an object to make sure that only one object gets created.
 ```
 **3.** What is the `Observer` design pattern?
 <!-- enter you answer in the space below -->
 ```
-
+        The observer pattern is when an object keeps tabs on other objects and does something whenever there's a change. 
 ```
 **4.** What is the `Strategy` design pattern?
 <!-- enter you answer in the space below -->
 ```
-
+        
 ```
 **5.** What is the `Factory` design pattern?
 <!-- enter you answer in the space below -->
